@@ -47,7 +47,8 @@ To use this application, type [node index] in the terminal.
 * THEN I exit the application, and the HTML is generated
 
 ## Screenshot
-![](undefined)
+![scnshot](https://user-images.githubusercontent.com/85942489/139125739-667f575e-354c-4a7c-be84-fc6e1574d919.JPG)
+
 
 ## Contribution
 This is classwork, and while I am not currently accepting any contributes, please feel free to contact me with any feedback. Thank you!
