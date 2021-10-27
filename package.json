@@ -55,7 +55,7 @@
     "vary": "^1.1.2"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "jest",
     "start": "node server.js"
   },
   "repository": {
@@ -68,5 +68,8 @@
   "bugs": {
     "url": "https://github.com/detrasmental/zookeepr/issues"
   },
-  "homepage": "https://github.com/detrasmental/zookeepr#readme"
+  "homepage": "https://github.com/detrasmental/zookeepr#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
 }
